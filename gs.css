@@ -1,0 +1,49 @@
+/*speech class*/
+.speech{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: large;
+    color: black;
+}
+
+/*song class*/
+.song{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    color: black;
+}
+
+/*direction class*/
+.direction{
+    font-family: 'Times New Roman', Times, serif; 
+    font-size: medium;color: black; 
+    background-color: aquamarine;
+}
+.direction:hover{
+    background-color: black;
+    color: aliceblue;
+}
+
+/*name class*/
+.name{
+    font-family: monospace;
+    font-size: large;
+    color: black;
+}
+
+/*character classes*/
+.nanki-poo{
+    color: violet;
+}
+
+.pooh-bah{
+    color: coral;
+}
+
+.pish-tush{
+    color: darkseagreen;
+}
+
+/*group classes*/
+.all{
+    color:lightgreen
+}
