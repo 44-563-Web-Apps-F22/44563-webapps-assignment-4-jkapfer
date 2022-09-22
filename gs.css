@@ -29,6 +29,9 @@
     font-size: large;
     color: black;
 }
+.name:hover{
+    text-shadow: 2px 2px 5px coral, 2px 2px 5px salmon;
+}
 
 /*character classes*/
 .nanki-poo{
